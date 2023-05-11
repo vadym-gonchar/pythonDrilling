@@ -1,0 +1,6 @@
+To run the python scrip from console press:
+python3 lessons.py
+
+Press ⌃R to execute python script
+
+Press Double ⇧ to search everywhere
